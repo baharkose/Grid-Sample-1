@@ -33,7 +33,6 @@ body {
 
 nav {
   font-size: 18px;
-  /* text-align: center; */
 }
 
 article {
@@ -42,15 +41,12 @@ article {
 
 .post-header {
   margin-bottom: 40px;
-  /* position: relative; */
 }
 
 aside {
   background-color: #f7f7f7;
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
-  /* padding-top: 50px;
-  padding-bottom: 50px; */
   padding: 50px 0;
   width: 500px;
 }
@@ -100,20 +96,12 @@ ol {
 li {
   font-size: 20px;
   margin-bottom: 10px;
-  /* display: inline; */
 }
 
 li:last-child {
   margin-bottom: 0;
 }
 
-/* footer p {
-  font-size: 16px;
-} */
-
-/* article header p {
-  font-style: italic;
-} */
 
 #author {
   font-style: italic;
@@ -128,10 +116,6 @@ li:last-child {
   font-size: 18px;
   font-weight: bold;
 }
-
-/* ul {
-  list-style: none;
-} */
 
 .related {
   list-style: none;
@@ -191,12 +175,6 @@ a:active {
 }
 
 nav a:link {
-  /* background-color: orangered;
-  margin: 20px;
-  padding: 20px;
-
-  display: block; */
-
   margin-right: 30px;
   margin-top: 10px;
   display: inline-block;
@@ -224,11 +202,9 @@ h1::first-letter {
 }
 
 h3 + p::first-line {
-  /* color: red; */
 }
 
 h2 {
-  /* background-color: orange; */
   position: relative;
 }
 
@@ -245,38 +221,13 @@ h2::before {
   right: -25px;
 }
 
-/* Resolving conflicts */
-/* #copyright {
-  color: red;
-}
-
-.copyright {
-  color: blue;
-}
-
-.text {
-  color: yellow;
-}
-
-footer p {
-  color: green !important;
-} */
-
-/* nav a:link,
-nav p {
-  font-size: 18px;
-} */
-
-/* FLOATS */
 
 .author-img{
   float:left;
   margin-bottom: 20px;
 }
 .author{
-  /* padding-left:80px; */
  margin-top:10px;
-  /* float: right; */
   margin-left: 20px;
 }
 
